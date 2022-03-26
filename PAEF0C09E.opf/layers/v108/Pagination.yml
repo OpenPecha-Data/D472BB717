@@ -431,13 +431,13 @@ annotations:
     reference: ''
     span:
       start: 91453
-      end: 93663
+      end: 93666
   dec1d34e599e4086aedb5ec330c3bc29:
     imgnum: 1127
     reference: ''
     span:
-      start: 93665
-      end: 95068
+      start: 93668
+      end: 95075
 local_ids:
   f92468ec053a41b48f9ad35c2839fac2: 200000
   03c77b1dff6a484287d062feb5398687: 200001
